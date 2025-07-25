@@ -1,4 +1,4 @@
-# OpenCore EFI for Ivy Bridge
+# OpenCore EFI for Ivy Bridge [!!! EXPERIMENTAL !!!]
 
 This repository contains a complete OpenCore EFI configuration optimized for Ivy Bridge (3rd generation Intel Core) processors, designed for Hackintosh installations running macOS.
 
