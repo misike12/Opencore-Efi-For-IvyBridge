@@ -88,7 +88,13 @@
         <key>DeviceProperties</key>
         <dict>
             <key>Add</key>
-            <dict/>
+            <dict>
+                <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+                <dict>
+                    <key>shikigva</key>
+                    <integer>80</integer>
+                </dict>
+            </dict>
             <key>Delete</key>
             <dict/>
         </dict>
@@ -637,25 +643,25 @@
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
-                <true/>
+                <false/>
                 <key>MLB</key>
-                <string>F5K901802CDFHDD1H</string>
+                <string>C020173034NJG36AD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>JBBbf9c9</data>
+                <data>ZDHbc4dj</data>
                 <key>SpoofVendor</key>
-                <false/>
+                <true/>
                 <key>SystemMemoryStatus</key>
-                <string>Upgradable</string>
+                <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacPro7,1</string>
+                <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KY20E2P7QM</string>
+                <string>C02CM0MEHX87</string>
                 <key>SystemUUID</key>
-                <string>A8A6B78F-61EE-4BF0-B0B2-A5C6F116DF08</string>
+                <string>91522E25-6810-4DA7-8457-AD52C8AB2A84</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
