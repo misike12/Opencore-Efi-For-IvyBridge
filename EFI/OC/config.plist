@@ -596,7 +596,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>-v alcid=1 watchdog=0 dk.e1000=0 e1000=0 agdpmod=vit9696 amfi_get_out_of_my_way=0x1 ngfxcompat=0x1 ngfxgl=1 nvda_drv_vrl=1</string>
+                    <string>-v alcid=1 watchdog=0 dk.e1000=0 e1000=0 agdpmod=vit9696 amfi_get_out_of_my_way=0x1 ngfxcompat=0x1 ngfxgl=1 nvda_drv_vrl=1 keepsyms=1 swd_panic</string>
                     <key>csr-active-config</key>
                     <data>AwoAAA==</data>
                     <key>prev-lang:kbd</key>
